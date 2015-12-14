@@ -231,7 +231,7 @@ main img {
     font-size: 40px;
 }
 
-.text {
+/*.text {
     color: white;
     position: absolute;
     left: 10px;
@@ -239,7 +239,7 @@ main img {
     font-size: 25px;
     font-family: 'Laila';
     
-}
+}*/
 
 
 
@@ -249,6 +249,7 @@ main img {
     border: 1px solid transparent;
     padding: 20px;
     overflow: auto;
+    margin-bottom: 30px;
 }
 
 h2 {
