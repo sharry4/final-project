@@ -141,6 +141,7 @@ nav ul li:last-child:after {
     margin: 0 auto;
     width: 960px;
     overflow: auto;
+    margin-bottom: 30px;
 }
 
 /*
