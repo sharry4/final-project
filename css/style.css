@@ -141,6 +141,7 @@ nav ul li:last-child:after {
     margin: 0 auto;
     width: 960px;
     overflow: auto;
+    margin-bottom: 30px;
 }
 
 /*
@@ -231,7 +232,7 @@ main img {
     font-size: 40px;
 }
 
-.text {
+/*.text {
     color: white;
     position: absolute;
     left: 10px;
@@ -239,7 +240,7 @@ main img {
     font-size: 25px;
     font-family: 'Laila';
     
-}
+}*/
 
 
 
