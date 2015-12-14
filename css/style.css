@@ -365,7 +365,7 @@ p:nth-child(3n) a {
     
 }
 
-p:nth-child(3n) {
+.container1 p:nth-child(3n) {
     font-style: normal;
     padding-top: 30px;
 }
@@ -383,6 +383,39 @@ section img {
     float: left;
     padding-right: 20px;
 }
+
+#container2 {
+    margin: 0 auto;
+    width: 960px;
+    border: 1px solid transparent;
+    padding: 20px;
+    overflow: auto;
+    margin-bottom: 30px;
+}
+
+#container2 .img {
+    height: auto;
+    width: 280px;
+    float: left;
+    margin-right: 30px;
+}
+
+#container2 p {
+    padding-left: 20px;
+}
+
+#container2 a {
+    color: grey
+}
+
+#container2 .img p {
+    padding-left: 0;
+    padding-top: 10px;
+    font-size: 10px;
+}
+
+
+
 
 /*#sudi, #quyuan, #pinghu, #duanqiao, #liulang, #huagang, #leifeng, #santan {
     height: 250px;
